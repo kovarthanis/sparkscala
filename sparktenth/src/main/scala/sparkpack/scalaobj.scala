@@ -1,0 +1,5 @@
+package sparkpack
+
+class scalaobj {
+  
+}
