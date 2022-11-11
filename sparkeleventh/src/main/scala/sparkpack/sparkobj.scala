@@ -1,0 +1,5 @@
+package sparkpack
+
+object sparkobj {
+  
+}
